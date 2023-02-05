@@ -1,0 +1,8 @@
+homepageurl: localhost/index.php
+
+adminuser: admin@test.com
+
+
+adminpassword: admin
+
+

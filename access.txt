@@ -1,0 +1,9 @@
+homepageurl: localhost/index.php
+
+adminuser: admin1@gmail.com
+
+adminpass: admin@123
+
+nonadminuser: tsheringsherpa510@gmail.com
+
+nonadminpassword: user@123
